@@ -1,0 +1,1 @@
+In case of any modifications of the headlessSolutionComponentsMover, we need to publish the code to the communitd to the public due to GPL v3. This is not optional!!!
